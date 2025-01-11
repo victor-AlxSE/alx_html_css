@@ -1,0 +1,1 @@
+This is a project that is geared towards enhancing my knowledge on html and css, i was motivated by the responsiveness of the website which i'm very enthsiastic abot attempting it. My project stands out amongst all because all implementations were done in my own understanding.
